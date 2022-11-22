@@ -10,5 +10,5 @@ I'm a typical weeb, no life and an introvert </br>
 <strong>Discord</strong>: Ducca#3106 </br>
 
 <p align="center">
-  <img src="https://github.com/caodoc/caodoc/logo.gif"/>
+  <img src="https://github.com/caodoc/CIANS/blob/main/img/logo.gif"/>
 </p>
