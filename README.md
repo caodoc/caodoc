@@ -9,6 +9,12 @@ I'm a typical weeb, no life and an introvert </br>
 <strong>[Facebook](https://www.facebook.com/caodoc/)</strong> </br>
 <strong>Discord</strong>: Ducca#3106 </br>
 
-<p align="center">
-  <img src="https://github.com/caodoc/CIANS/blob/main/img/logo.gif"/>
-</p>
+<hr>
+
+<a href="https://github.com/anuraghazra/github-readme-stats" algin = "center">
+  <img src="https://github-readme-stats.vercel.app/api?username=caodoc&show_icons=true&theme=tokyonight&count_private=true">
+</a>
+</br>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api//top-langs?username=caodoc&show_icons=true&theme=tokyonight&count_private=true&langs_count=10&layout=compact">
+</a>
