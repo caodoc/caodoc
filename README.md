@@ -4,10 +4,10 @@
   <p align="left"> 
     My name is Cao (aka Duccalorian) and I'm learning to be a programmer. </br>
   </p>
-
 </div>
 
 <hr>
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api?username=caodoc&show_icons=true&include_all_commits=true&theme=tokyonight">
   <img src="https://github-readme-stats.vercel.app/api//top-langs?username=caodoc&show_icons=true&theme=tokyonight&count_private=true&langs_count=10&layout=compact">
@@ -16,7 +16,7 @@
 <hr>
 
 <ul algin="left">
-  <strong> You can find me in: </strong>
+  <h2> <strong> Contact: </strong> </h2>
   <li> <a href="https://facebook.com/caodoc/"> <strong> Facebook: @caodoc </strong> </a> </li>
   <li> <strong> Discord: </strong> Ducca#3016</li>
 </ul>
