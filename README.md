@@ -15,11 +15,9 @@
 
 <hr>
 
-<div>
+<div algin="left">
   <h2> <strong> Contact: </strong> </h2> 
-
-  <ul algin="left">
-    <li> <a href="https://facebook.com/caodoc/"> <strong> Facebook: @caodoc </strong> </a> </li>
-    <li> <strong> Discord: </strong> Ducca#3016</li>
-  </ul>
+  
+  <a href="https://facebook.com/caodoc/"> <strong> Facebook: @caodoc </strong> </a> </br>
+  <strong> Discord: </strong> Ducca#3016
 </div>
