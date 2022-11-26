@@ -16,8 +16,8 @@
 <hr>
 
 <div>
+  <h2> <strong> Contact: </strong> </h2>
   <ul algin="left">
-    <h2> <strong> Contact: </strong> </h2>
     <li> <a href="https://facebook.com/caodoc/"> <strong> Facebook: @caodoc </strong> </a> </li>
     <li> <strong> Discord: </strong> Ducca#3016</li>
   </ul>
