@@ -1,6 +1,8 @@
 <div align="center"> 
   <h3> <strong> Hi there 👋 </strong> </h3>
 
+  <img src="image.gif" width="500">
+
   <p align="left"> 
     My name is Cao (aka Duccalorian) and I'm learning to be a programmer. </br>
   </p>
@@ -18,5 +20,6 @@
 <div algin="left">
   <h3> <strong> Contact: </strong> </h3> 
 
+  <strong> <a href="https://facebook.com/caodoc"> Facebook </a> </strong> </br>
   <strong> Discord: </strong> Ducca#3016
 </div>
