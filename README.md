@@ -1,8 +1,6 @@
 <div align="center"> 
   <h3> <strong> Hi there 👋 </strong> </h3>
 
-  <img src="image.gif" width="750">
-
   <p align="left"> 
     My name is Cao (aka Duccalorian) and I'm learning to be a programmer. </br>
   </p>
