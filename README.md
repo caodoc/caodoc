@@ -9,8 +9,14 @@
 <p align="left"> 
   <h3> <strong> Profile summary </strong> </h3>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=caodoc&theme=tokyonight&show_icons=true">
+
+  <hr>
+
   <h3> <strong> Languages </strong> </h3>
   <img src="https://github-readme-stats.vercel.app/api//top-langs?username=caodoc&show_icons=true&theme=tokyonight&count_private=true&langs_count=10&layout=compact">
+
+  <hr>
+
   <h3> <strong> Trophies </strong> </h3>
   <img src="https://github-profile-trophy.vercel.app/?username=caodoc&theme=tokyonight">
 </p>
