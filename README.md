@@ -1,13 +1,15 @@
-<p align="center">
-  <h3> <strong> Hi there 👋 </strong> </h3> 
+<div align="center">
+  <p>
+    <h3> <strong> Hi there 👋 </strong> </h3> 
+  </p>
+</div>
+
+<p align="left"> 
+    My name is Cao (aka Ducca) and I'm learning to be a programmer. </br>
 </p>
 
 <p align="left"> 
-    My name is Cao (aka Duccalorian) and I'm learning to be a programmer. </br>
-</p>
-
-<p align="left"> 
-  <h3> <strong> Profile summary </strong> </h3>
+  <h3> <strong> Profile Summary </strong> </h3>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=caodoc&theme=tokyonight&show_icons=true">
 
   <hr>
@@ -23,9 +25,12 @@
 
 <hr>
 
-<div algin="left">
-  <h3> <strong> Contact: </strong> </h3> 
+<div align="left">
+  <h3> <strong> Contact </strong> </h3> 
 
-  <strong> <a href="https://facebook.com/caodoc"> Facebook </a> </strong> </br>
+  <a href="https://facebook.com/caodoc"> 
+    <img src="https://img.shields.io/badge/Facebook-0077B5?style=for-the-badge&logo=facebook&logoColor=white"> 
+  </a> </br>
+
   <strong> Discord: </strong> Ducca#3016
 </div>
