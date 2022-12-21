@@ -16,8 +16,7 @@
   <hr>
 
   <h3> <strong> Languages </strong> </h3>
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"> <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
   </br>
   <img src="https://github-readme-stats.vercel.app/api//top-langs?username=caodoc&show_icons=true&theme=tokyonight&count_private=true&langs_count=10&layout=compact">
 
