@@ -35,10 +35,7 @@
   </br>
 </p>
 
-</br>
-</br>
-</br>
-</br> <!--   yes i just add a lot of </br> just to make the avatar fits:)   -->
+</br> 
 
 <p align="left"> 
   <h3> <strong> Profile Summary </strong> </h3>
