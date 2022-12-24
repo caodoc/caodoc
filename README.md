@@ -4,10 +4,14 @@
   </p>
 </div>
 
+<img align="right" src="https://avatars.githubusercontent.com/u/72246940?s=90">
+
 <p align="left"> 
-    My name is Cao (aka Ducca) and I'm learning to be a programmer. </br>
-    <strong> Objective: </strong> Smart enough to remake Bad Apple on random platform. </br>
+  My name is Cao (aka Ducca) and I'm learning to be a programmer. </br>
+  <strong> Objective: </strong> Smart enough to remake Bad Apple on random platform. </br>
 </p>
+
+<hr>
 
 <p align="left"> 
   <h3> <strong> Profile Summary </strong> </h3>
