@@ -4,7 +4,7 @@
   </p>
 </div>
 
-<img align="right" src="https://avatars.githubusercontent.com/u/72246940?s=400">
+<img align="right" src="https://avatars.githubusercontent.com/u/72246940?s=350">
 
 <p align="left"> 
   <h3> My name is Cao (aka Ducca) and I'm learning to be a programmer. </h3> 
@@ -35,8 +35,6 @@
   </br>
 </p>
 
-</br>
-</br>
 </br>
 </br>
 </br>
