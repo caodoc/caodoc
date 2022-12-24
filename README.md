@@ -7,19 +7,36 @@
 <img align="right" src="https://avatars.githubusercontent.com/u/72246940?s=400">
 
 <p align="left"> 
-  My name is Cao (aka Ducca) and I'm learning to be a programmer. </br>
-  <strong> Objective: </strong> Smart enough to remake Bad Apple on random platform. </br>
+  <h3> My name is Cao (aka Ducca) and I'm learning to be a programmer. </h3> 
+
+  <h3> <strong> Objectives: </strong> </h3>
+  <ul>
+    <li> Smart enough to remake Bad Apple on random platform. </li>
+    <li> Reach to 1500 on CodeForces. </li>
+    <li> Will update more...</li>
+  </ul>
+
+  <h3> <strong> Contact </strong> </h3> 
+  <a href="https://facebook.com/caodoc"> 
+    <img src="https://img.shields.io/badge/Facebook-3b5998?style=for-the-badge&logo=facebook&logoColor=white"> 
+  </a>
+  <a href="https://twitter.com/caodochi">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
+  </a>
+  <a href="https://www.reddit.com/user/CaoDoChi"> 
+    <img src="https://img.shields.io/badge/Reddit-ff4500?style=for-the-badge&logo=Reddit&logoColor=white"> 
+  </a>
+  <a href="https://discord.com/users/800173074166710282"> 
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"> 
+  </a>
+  <a href="https://codeforces.com/profile/caodoc"> 
+    <img src="https://camo.githubusercontent.com/192b05ae3de2f0d8d73c7b32767d36a88a4706a5eed3b3e139b6aa49da16731e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f436f6465666f726365732d3434356639643f7374796c653d666f722d7468652d6261646765266c6f676f3d436f6465666f72636573266c6f676f436f6c6f723d7768697465"> 
+  </a>
+  </br>
 </p>
 
 </br>
 </br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br> 
 </br>
 </br>
 </br>
@@ -48,19 +65,3 @@
   <h3> <strong> Trophies </strong> </h3>
   <img src="https://github-profile-trophy.vercel.app/?username=caodoc&theme=tokyonight">
 </p>
-
-<hr>
-
-<div align="left">
-  <h3> <strong> Contact </strong> </h3> 
-
-  <a href="https://facebook.com/caodoc"> 
-    <img src="https://img.shields.io/badge/Facebook-3b5998?style=for-the-badge&logo=facebook&logoColor=white"> 
-  </a>
-  <a href="https://discord.com/users/800173074166710282"> 
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"> 
-  </a>
-  <a href="https://codeforces.com/profile/caodoc"> 
-    <img src="https://camo.githubusercontent.com/192b05ae3de2f0d8d73c7b32767d36a88a4706a5eed3b3e139b6aa49da16731e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f436f6465666f726365732d3434356639643f7374796c653d666f722d7468652d6261646765266c6f676f3d436f6465666f72636573266c6f676f436f6c6f723d7768697465"> 
-  </a>
-</div>
