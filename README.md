@@ -38,9 +38,6 @@
 </br>
 </br>
 </br>
-</br>
-</br>
-</br>
 </br> <!--   yes i just add a lot of </br> just to make the avatar fits:)   -->
 
 <p align="left"> 
