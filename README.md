@@ -11,6 +11,23 @@
   <strong> Objective: </strong> Smart enough to remake Bad Apple on random platform. </br>
 </p>
 
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+
 <p align="left"> 
   <h3> <strong> Profile Summary </strong> </h3>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=caodoc&theme=tokyonight&show_icons=true">
