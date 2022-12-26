@@ -9,8 +9,10 @@
 <p align="left"> 
   <h3> My name is Cao (aka Ducca) and I'm learning to be a programmer. </h3> 
 
-  <img src="https://img.shields.io/github/followers/caodoc?style=for-the-badge">
-  <img src="https://img.shields.io/github/stars/caodoc?style=for-the-badge">
+  <a href="https://shields.io">
+    <img src="https://img.shields.io/github/followers/caodoc?style=for-the-badge">
+    <img src="https://img.shields.io/github/stars/caodoc?style=for-the-badge">
+  </a>
 
   <h3> <strong> Objectives: </strong> </h3>
   <ul>
