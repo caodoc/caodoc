@@ -40,8 +40,6 @@
   </br>
 </p>
 
-</br> 
-
 <p align="left"> 
   <h3> <strong> Profile Summary </strong> </h3>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=caodoc&theme=tokyonight&show_icons=true">
@@ -50,8 +48,10 @@
 
   <h3> <strong> Languages </strong> </h3>
 
-  ![Cpp Badge](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-  ![Python Badge](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+  <a href="https://shields.io">
+    <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+    <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
+  </a>
   
   </br>
 
