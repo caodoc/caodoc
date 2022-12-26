@@ -64,6 +64,3 @@
   <h3> <strong> Trophies </strong> </h3>
   <img src="https://github-profile-trophy.vercel.app/?username=caodoc&theme=tokyonight">
 </p>
-
-<hr>
-
