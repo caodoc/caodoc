@@ -40,6 +40,8 @@
   </br>
 </p>
 
+<hr>
+
 <p align="left"> 
   <h3> <strong> Profile Summary </strong> </h3>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=caodoc&theme=tokyonight&show_icons=true">
@@ -62,3 +64,6 @@
   <h3> <strong> Trophies </strong> </h3>
   <img src="https://github-profile-trophy.vercel.app/?username=caodoc&theme=tokyonight">
 </p>
+
+<hr>
+
