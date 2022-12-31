@@ -40,6 +40,9 @@
   <a href="https://caodoc.github.io/">
     <img src="https://img.shields.io/badge/Github.io-171515?style=for-the-badge&logo=github&logoColor=white">
   </a>
+  <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
+    <img src="https://img.shields.io/badge/Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
+  </a>
   </br>
 </p>
 
