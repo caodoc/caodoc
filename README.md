@@ -9,7 +9,7 @@
 <p align="left"> 
   <h3> My name is Cao (aka Ducca) and I'm learning to be a programmer. </h3> 
 
-  <a href="https://shields.io">
+  <a href="https://shields.io" target="_blank">
     <img src="https://img.shields.io/github/followers/caodoc?style=for-the-badge">
     <img src="https://img.shields.io/github/stars/caodoc?style=for-the-badge">
   </a>
@@ -22,28 +22,28 @@
   </ul>
 
   <h3> <strong> Contact </strong> </h3> 
-  <a href="https://facebook.com/caodoc"> 
+  <a href="https://facebook.com/caodoc" target="_blank"> 
     <img src="https://img.shields.io/badge/Facebook-3b5998?style=for-the-badge&logo=facebook&logoColor=white"> 
   </a>
-  <a href="https://discord.com/users/800173074166710282"> 
+  <a href="https://discord.com/users/800173074166710282" target="_blank"> 
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"> 
-  <a href="https://codeforces.com/profile/caodoc"> 
+  <a href="https://codeforces.com/profile/caodoc" target="_blank"> 
     <img src="https://camo.githubusercontent.com/192b05ae3de2f0d8d73c7b32767d36a88a4706a5eed3b3e139b6aa49da16731e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f436f6465666f726365732d3434356639643f7374796c653d666f722d7468652d6261646765266c6f676f3d436f6465666f72636573266c6f676f436f6c6f723d7768697465"> 
   </a>
-  <a href="https://caodoc.github.io/">
+  <a href="https://caodoc.github.io/" target="_blank">
     <img src="https://img.shields.io/badge/Github.io-171515?style=for-the-badge&logo=github&logoColor=white">
   </a>
-  <a href="https://sussypage.vercel.app/">
+  <a href="https://sussypage.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Vercel.app-171515?style=for-the-badge&logo=vercel&logoColor=white">
   </a>  
   </a>
-  <a href="https://twitter.com/caodochi">
+  <a href="https://twitter.com/caodochi" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
   </a>
-  <a href="https://www.reddit.com/user/CaoDoChi"> 
+  <a href="https://www.reddit.com/user/CaoDoChi" target="_blank"> 
     <img src="https://img.shields.io/badge/Reddit-ff4500?style=for-the-badge&logo=Reddit&logoColor=white"> 
   </a>
-  <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
+  <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank">
     <img src="https://img.shields.io/badge/Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
   </a>
   </br>
@@ -59,7 +59,7 @@
 
   <h3> <strong> Languages </strong> </h3>
 
-  <a href="https://shields.io">
+  <a href="https://shields.io" target="_blank">
     <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
     <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
   </a>
