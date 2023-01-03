@@ -33,7 +33,7 @@
   <a href="https://caodoc.github.io/">
     <img src="https://img.shields.io/badge/Github.io-171515?style=for-the-badge&logo=github&logoColor=white">
   </a>
-  <a href="https://sussybaka-cyan.vercel.app/">
+  <a href="https://sussypage.vercel.app/">
     <img src="https://img.shields.io/badge/Vercel.app-171515?style=for-the-badge&logo=vercel&logoColor=white">
   </a>  
   </a>
