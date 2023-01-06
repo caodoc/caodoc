@@ -53,6 +53,7 @@
 
 <p align="left"> 
   <h3> <strong> Profile Summary </strong> </h3>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=caodoc&theme=tokyonight">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=caodoc&theme=tokyonight&show_icons=true&layout=compact">
 
   <hr>
