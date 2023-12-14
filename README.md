@@ -7,8 +7,6 @@
 
 - 🎮 Not a very skilled osu! player: [SpacerWellerman](https://osu.ppy.sh/users/21126929)
 
-- ⚡ Fun fact: **null**
-
 <h3 align="left"> Skills </h3>
 
 [![My Skills](https://skillicons.dev/icons?i=cpp,py,js,html,css)](https://skillicons.dev)
@@ -40,7 +38,3 @@
 
 - [Discord](https://discord.com/users/800173074166710282)
 - Matrix: caodoc@exozy.me
-
-<div align="right">
-    <a href="https://visitcount.itsvg.in/"> <img src="https://visitcount.itsvg.in/api?id=caodoc&label=Views&color=6&icon=2&pretty=true"> </a>
-</div>
