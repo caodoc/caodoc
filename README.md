@@ -17,5 +17,5 @@
 
 <img src="https://raw.githubusercontent.com/caodoc/github-stats/master/generated/languages.svg#gh-dark-mode-only">
 
-<img src="https://leetcard.jacoblin.cool/caodoc?theme=forest&font=Fira%20Code&ext=heatmap">
+<img src="https://leetcard.jacoblin.cool/caodoc?theme=nord&font=Fira%20Sans">
 </div>
