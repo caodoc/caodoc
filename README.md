@@ -1,5 +1,4 @@
 <h1 align="center"> Hi 👋, I'm caodoc </h1>
-<h3 align="center"> A new developer </h3>
 
 - 🌱 I’m a freshman at **fit@hcmus**.
 
@@ -9,7 +8,6 @@
 
 - [Discord](https://discord.com/users/800173074166710282) / [Codeforces](https://codeforces.com/profile/caodoc) / [LeetCode](https://leetcode.com/u/caodoc/) / [HackerRank](https://www.hackerrank.com/profile/caodoc)
 - Not a very skilled osu! player: [Spacer Wellerman](https://osu.ppy.sh/users/21126929).
-- Matrix: [@caodoc:exozy.me]()
 
 <h3 align="left"> Stats </h3>
 <div>
