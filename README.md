@@ -12,7 +12,7 @@
 
 <h3 align="left"> Contact </h3>
 
-- [Discord](https://discord.com/users/800173074166710282) / [Codeforces](https://codeforces.com/profile/caodoc) / [LeetCode](https://leetcode.com/u/caodoc/) / [HackerRank](https://www.hackerrank.com/profile/caodoc)
+- [caodoc@proton.me](mailto:caodoc@proton.me) / [Codeforces](https://codeforces.com/profile/caodoc) / [LeetCode](https://leetcode.com/u/caodoc/) / [HackerRank](https://www.hackerrank.com/profile/caodoc)
 - **Other accounts with this username may not be me, proceed with caution.**
 
 <h3 align="left"> Stats </h3>
