@@ -8,7 +8,7 @@
 
 - 🤝 I’m looking for help with math.
 
-- ⚡ Fun fact: There is not a fun fact about me.
+- ⚡ Fun fact: I don't know if there is a fun fact about me or not.
 
 <h3 align="left"> Contact </h3>
 
