@@ -20,6 +20,7 @@
 <img src="https://raw.githubusercontent.com/caodoc/github-stats/master/generated/overview.svg#gh-dark-mode-only">
 
 <img src="https://raw.githubusercontent.com/caodoc/github-stats/master/generated/languages.svg#gh-dark-mode-only">
+<a href="https://app.daily.dev/caodoc"><img src="https://api.daily.dev/devcards/v2/x6Jgdgf4gDKXpi4NO4Syo.png?type=default&r=fy7" width="356" alt="caodo.c's Dev Card"/></a>
 </div>
 
 > [!NOTE]  
