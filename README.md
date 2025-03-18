@@ -6,14 +6,12 @@
 
 - 💬 Ask me how to spend time looking at NCS visualizers (optional).
 
-- 🤝 I’m looking for help with math.
-
 - ⚡ Fun fact: I don't know if there is a fun fact about me or not.
 
 <h3 align="left"> Contact </h3>
 
 - [caodoc@proton.me](mailto:caodoc@proton.me) / [Codeforces](https://codeforces.com/profile/caodoc) / [LeetCode](https://leetcode.com/u/caodoc/) / [HackerRank](https://www.hackerrank.com/profile/caodoc)
-- **Other accounts with this username may not be me, proceed with caution.**
+- **⚠️ Other accounts with this username are not mine, except for those I have listed above.**
 
 <h3 align="left"> Stats </h3>
 <div>
