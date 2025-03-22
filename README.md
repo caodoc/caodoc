@@ -17,7 +17,7 @@
 <div>
 <img src="https://raw.githubusercontent.com/ccaoishere/github-stats/master/generated/overview.svg#gh-dark-mode-only">
 
-<img src="https://raw.githubusercontent.com/ccaoisheregithub-stats/master/generated/languages.svg#gh-dark-mode-only">
+<img src="https://raw.githubusercontent.com/ccaoishere/github-stats/master/generated/languages.svg#gh-dark-mode-only">
 </div>
 
 > [!NOTE]  
